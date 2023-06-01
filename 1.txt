@@ -1,2 +1,2 @@
 git study_1-1
-Git study_1-2
+Git study_1-2 수정사항 있는데요..?
